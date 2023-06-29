@@ -533,13 +533,9 @@ border-radius:4px;
 display: flex;
 align-items: center;
 justify-content: center;
-color: var(--primary-semigrey-color);
+color: var(--link-icon);
+transition: fill var(--transition);
 
-}
-.company-icon:focus,
-.company-icon:hover {
-color: #404bbf;
-border-color: #404bbf; 
 }
 .company-icon:hover,
 .company-icon:focus {
