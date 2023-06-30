@@ -494,14 +494,12 @@ font-family: 'Roboto';
     align-items: center;
     gap: 24px;
 }
-.team-icon:hover {
-    background-color: #404bbf;
-}
+.team-icon:hover,
 .team-icon:focus {
     background-color: #404bbf;
 }
 .ccc {
-    fill: #f4f4fd;
+    fill: currentColor;
 }
 .customers-section {
 padding-top: 120px;
