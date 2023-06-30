@@ -553,7 +553,7 @@ transition: fill var(--link-icon);
     margin-top: 8px;
 }
 .social-p {
-    color: var(--white, #FFF);
+    color: var(--background-color-white);
     font-size: 16px;
     font-family: Roboto;
     font-style: normal;
@@ -563,12 +563,13 @@ transition: fill var(--link-icon);
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 16px;
 }
 .social-icon-list {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 24px;
+    gap: 16px;
 }
 .social-icon {
     border-radius: 50%;
@@ -595,6 +596,6 @@ transition: fill var(--link-icon);
 }
 .footer-social {
     display: flex;
-    align-items: center;
+    align-items: baseline;
     justify-content: center;
 }
