@@ -599,3 +599,6 @@ transition: fill var(--link-icon);
     display: flex;
     align-items: baseline;   
 }
+.footer-logo {
+    margin-right: 120px
+}
