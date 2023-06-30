@@ -562,7 +562,6 @@ transition: fill var(--link-icon);
 }
 .social-icon-list {
     display: flex;
-    justify-content: center;
     align-items: center;
     gap: 16px;
 }
@@ -593,7 +592,6 @@ transition: fill var(--link-icon);
     height: 40px;
 }
 .footer-social {
-    display: flex;
     align-items: baseline;
     justify-content: center;
 }
