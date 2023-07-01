@@ -485,6 +485,7 @@ font-family: 'Roboto';
     letter-spacing: 0.02em;
     padding: 40px 32px;
     background-color: #4d5ae5;
+    color: #f4f4fd;
     height: 100%;
     width: 100%;
     transform: translateY(100%);
